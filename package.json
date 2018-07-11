@@ -1,0 +1,11 @@
+{
+  "name": "simple-ui-lib",
+  "version": "0.0.1",
+  "description": "react & webpack based ui lib with docs built in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Smith",
+  "license": "ISC"
+}
